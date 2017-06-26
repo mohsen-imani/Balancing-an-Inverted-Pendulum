@@ -1,0 +1,13 @@
+we have good result for epsilon = 0.001 among all enough exploration and explotaion
+#define ALPHA 0.1
+#define GAMMA 0.95
+#define LAMDA 0.9
+
+in the following case
+#define EPSILON .001
+
+#define ALPHA 0.1
+#define GAMMA 0.95
+#define LAMDA 0.5 
+
+we got the answare in trial 290 was not better than before

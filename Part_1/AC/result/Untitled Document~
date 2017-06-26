@@ -1,0 +1,5 @@
+when we increase the BETA it is not converage
+BETA 0.1 0.5 0.9
+
+when we increase the ALPHA it is not converage, it sticks to the wrong state
+ALPHA 0.5

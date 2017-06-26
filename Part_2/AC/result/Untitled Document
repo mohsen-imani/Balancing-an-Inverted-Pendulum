@@ -1,0 +1,14 @@
+in the following case we got the answer in 7o trials that was good despite L = 0.1
+#define ALPHA 0.1
+#define GAMMA 0.95
+#define LAMDA 0.1
+#define TEMP 0.001
+#define BETA 0.2
+
+
+crazy in 12 trials
+#define ALPHA 0.1
+#define GAMMA 0.95
+#define LAMDA 0.9
+#define TEMP 0.001
+#define BETA 0.2
